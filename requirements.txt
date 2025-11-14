@@ -1,3 +1,6 @@
+dotenv
+matplotlib
+tqdm
 pytesseract
 opencv-python
 pillow
