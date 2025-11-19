@@ -9,7 +9,7 @@ Here you can work on try to update the ocr feature from our platform. All experi
 
 ## Create your Work Environment
 
-Before all instructions, you need the tesseract-ocr tecnology installed on your local machine. Please see this [link]().
+Before all instructions, you need the tesseract-ocr package installed on your local machine. Please see this [link](https://tesseract-ocr.github.io/tessdoc/Installation.html).
 
 Please, you will need python to work on this repository, a python environment manager is recommended ([venv](https://docs.python.org/pt-br/3/library/venv.html) or [anaconda/miniconda](https://www.anaconda.com/download/success)).
 
