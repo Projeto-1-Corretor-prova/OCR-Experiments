@@ -1,6 +1,9 @@
+langchain
+langchain-ollama
+langchain-openai
+langchain-google-genai
+langgraph
 dotenv
 matplotlib
 tqdm
-pytesseract
-opencv-python
 pillow
